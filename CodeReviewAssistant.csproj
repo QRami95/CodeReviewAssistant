@@ -13,4 +13,8 @@
     <PackageReference Include="Octokit" Version="14.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="D:\Ai\CodeReviewAssistant\.editorconfig" />
+  </ItemGroup>
+
 </Project>
